@@ -1,0 +1,200 @@
+[
+    {
+        "id": 0,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 303,
+            "y": 256
+        }
+    },
+    {
+        "id": 1,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 303,
+            "y": 256
+        }
+    },
+    {
+        "id": 2,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 331,
+            "y": 280
+        }
+    },
+    {
+        "id": 3,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 339,
+            "y": 267
+        }
+    },
+    {
+        "id": 4,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 339,
+            "y": 284
+        }
+    },
+    {
+        "id": 5,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 339,
+            "y": 284
+        }
+    },
+    {
+        "id": 6,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 344,
+            "y": 278
+        }
+    },
+    {
+        "id": 7,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 344,
+            "y": 278
+        }
+    },
+    {
+        "id": 8,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 345,
+            "y": 289
+        }
+    },
+    {
+        "id": 9,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 351,
+            "y": 268
+        }
+    },
+    {
+        "id": 10,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 352,
+            "y": 274
+        }
+    },
+    {
+        "id": 11,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 352,
+            "y": 274
+        }
+    },
+    {
+        "id": 12,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 357,
+            "y": 278
+        }
+    },
+    {
+        "id": 13,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 378,
+            "y": 307
+        }
+    },
+    {
+        "id": 14,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 380,
+            "y": 316
+        }
+    },
+    {
+        "id": 15,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 380,
+            "y": 316
+        }
+    },
+    {
+        "id": 16,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 386,
+            "y": 315
+        }
+    },
+    {
+        "id": 17,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 386,
+            "y": 315
+        }
+    },
+    {
+        "id": 18,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 387,
+            "y": 304
+        }
+    },
+    {
+        "id": 19,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 387,
+            "y": 304
+        }
+    },
+    {
+        "id": 20,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 387,
+            "y": 295
+        }
+    },
+    {
+        "id": 21,
+        "type": "SIFT Keypoint",
+        "coordinates": {
+            "x": 397,
+            "y": 297
+        }
+    },
+    {
+        "id": 0,
+        "type": "Drone",
+        "confidence": 0.9157463908195496,
+        "coordinates": {
+            "x": 294,
+            "y": 252,
+            "width": 112,
+            "height": 72
+        }
+    },
+    {
+        "id": 1,
+        "type": "Drone",
+        "confidence": 0.9044660925865173,
+        "coordinates": {
+            "x": 373,
+            "y": 289,
+            "width": 34,
+            "height": 36
+        }
+    }
+]
